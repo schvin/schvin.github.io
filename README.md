@@ -1,2 +1,2 @@
-schvin.github.com
+schvin.github.io
 =================
